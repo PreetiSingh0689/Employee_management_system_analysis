@@ -6,8 +6,7 @@ DataBase and Tools
 MySQL
 
 
-
-Schema - Employee Management system database
 ![image alt](https://github.com/PreetiSingh0689/Employee_management_system_analysis/blob/main/ER_diagram_EMS.png)
+Schema - Employee Management system database
 
 
