@@ -5,4 +5,6 @@ in data-driven decision-making for HR and management.
 DataBase and Tools
 MySQL
 
+![image alt](https://github.com/PreetiSingh0689/Employee_management_system_analysis/blob/main/ER_diagram_EMS.png)
+
 
